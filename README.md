@@ -11,9 +11,9 @@ This repository includes lab programs that have been executed as part of the AI 
 
 The subjects covered in this repository are:
 
-- Artificial Intelligence
-- Analysis and design of algorithm
-- Computer networks
-- Data visualisation
+- Artificial Intelligence(BAD402)
+- Analysis and design of algorithm(BCSL404)
+- Computer networks(BCS502)
+- Data visualisation(BAIL504)
 
 Each subject contains a set of practical lab exercises implemented in relevant programming languages.
