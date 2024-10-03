@@ -13,5 +13,7 @@ The subjects covered in this repository are:
 
 - Artificial Intelligence
 - Analysis and design of algorithm
+- Computer networks
+- Data visualisation
 
 Each subject contains a set of practical lab exercises implemented in relevant programming languages.
