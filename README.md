@@ -15,5 +15,7 @@ The subjects covered in this repository are:
 - Analysis and design of algorithm(BCSL404)
 - Computer networks(BCS502)
 - Data visualisation(BAIL504)
+- Data structures laboratory(BCL305)
+- Operating systems(BCS303)
 
 Each subject contains a set of practical lab exercises implemented in relevant programming languages.
