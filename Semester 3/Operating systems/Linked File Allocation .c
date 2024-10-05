@@ -1,5 +1,4 @@
-/*Simulate following File Organization Techniques
-C.)Linked File Allocation*/
+/*Develop a C program to simulate the Linked file allocation strategies.*/
 #include <stdio.h>
 #include <stdlib.h>
 
