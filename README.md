@@ -13,6 +13,7 @@ The subjects covered in this repository are:
 
 - Artificial Intelligence(BAD402)
 - Analysis and design of algorithm(BCSL404)
+- Database management system(BCS403)
 - Computer networks(BCS502)
 - Data visualisation(BAIL504)
 - Data structures laboratory(BCL305)
