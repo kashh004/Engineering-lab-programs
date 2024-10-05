@@ -17,6 +17,7 @@ The subjects covered in this repository are:
 - Data visualisation(BAIL504)
 - Data structures laboratory(BCL305)
 - Operating systems(BCS303)
+- Digital design and computer organisation(BCS302)
 - Introduction to Python programming(BPLCK105B/205B)
 - Object oriented programming using Java(BCSL306A)
 - Principles of Programming using C(BPOPS103/203)
