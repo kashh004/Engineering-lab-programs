@@ -1,5 +1,5 @@
 /*Simulate following File Organization Techniques
-A.)Two-Level Directory */
+B.)Two-Level Directory */
 #include <string.h>
 #include <stdlib.h>
 #include <stdio.h>
