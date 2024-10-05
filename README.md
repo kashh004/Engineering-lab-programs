@@ -14,6 +14,7 @@ The subjects covered in this repository are:
 - Artificial Intelligence(BAD402)
 - Analysis and design of algorithm(BCSL404)
 - Database management system(BCS403)
+- MongoDB(BDSL456B)
 - Computer networks(BCS502)
 - Data visualisation(BAIL504)
 - Data structures laboratory(BCL305)
@@ -22,5 +23,6 @@ The subjects covered in this repository are:
 - Introduction to Python programming(BPLCK105B/205B)
 - Object oriented programming using Java(BCSL306A)
 - Principles of Programming using C(BPOPS103/203)
+- Mathematics for CSE Stream labs(BMATS101/201)
 
 Each subject contains a set of practical lab exercises implemented in relevant programming languages.
