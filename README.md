@@ -19,5 +19,6 @@ The subjects covered in this repository are:
 - Operating systems(BCS303)
 - Introduction to Python programming(BPLCK105B/205B)
 - Object oriented programming using Java(BCSL306A)
+- Principles of Programming using C(BPOPS103/203)
 
 Each subject contains a set of practical lab exercises implemented in relevant programming languages.
